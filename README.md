@@ -1,6 +1,7 @@
-## Getting Started
+## GesFlota
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Proyecto para la asignatura de  Introducción a la Ingeniería de Software.
+Programa para la gestión de carga y descarga de buques
 
 ## Folder Structure
 
